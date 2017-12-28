@@ -39,7 +39,9 @@ public class MainActivity extends AppCompatActivity {
     ImageView img;
     Button bu;
     Bitmap bmThumbnail;
+
     private Uri videoUri;
+
     private int CAPTURE_VIDEO_ACTIVITY_REQUEST_CODE = 1;
 
     @Override
